@@ -1,0 +1,36 @@
+/* 
+    Created on : 01/09/2018, 21:10:53
+    Author     : valeria
+*/
+
+#imgVezJog{
+    height: 50px;
+    width: 40px;
+    margin-left: 10px;
+}
+p{
+    float:left;
+    
+}
+#mostrador{
+    margin: auto;
+    margin-top: 40px;
+    width: 252px; 
+    height: 80px;
+}
+.espaco{
+    width: 80px;
+    height: 70px;
+    border: 2px solid #000;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+.tabuleiro{
+    width: 252px;
+    height: 252px;
+    margin: auto;
+}
+#resultado{
+    text-align: center;
+}
